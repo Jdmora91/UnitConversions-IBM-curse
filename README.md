@@ -1,4 +1,4 @@
-Unit Conversion Tool
+## Unit Conversion Tool
 A sophisticated and professional unit conversion application developed as part of the IBM Full Stack Developer curriculum.
 
 https://img.shields.io/badge/IBM-Course_Project-blue?style=for-the-badge
