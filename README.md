@@ -207,7 +207,7 @@ Project Discussions: Join the conversation
 
 👨‍💻 Project Elaboration
 Prepared and Developed by:
-José D. Mora
+José D. Mora [https://github.com/Jdmora91]
 IBM Full Stack Developer Student
 
 This project represents a comprehensive implementation of modern web development principles as part of the IBM professional certification curriculum.
